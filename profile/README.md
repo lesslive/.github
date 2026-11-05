@@ -13,9 +13,9 @@ Distill my minimal living runtime from the maximal world</p>
 
 ---
 
-<a href="https://github.com/lesslive/opc.os">仓库模板</a> · 
-<a href="https://github.com/orgs/lesslive/discussions">组织论坛</a> · 
-<a href="https://github.com/orgs/lesslive/discussions/1">加入组织</a> · 
+<a href="https://github.com/lesslive/opc.os">样板房</a> · 
+<a href="https://github.com/orgs/lesslive/discussions">商业街</a> · 
+<a href="https://github.com/orgs/lesslive/discussions/1">办入驻</a> · 
 <a href="https://github.com/lesslive/opc.os/blob/main/LICENSE.md">CC BY-NC 4.0</a>
 
 
