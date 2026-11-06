@@ -13,9 +13,9 @@ Distill my minimal living runtime from the maximal world</p>
 
 ---
 
-<a href="https://github.com/lesslive/TimeBank">时间银行</a> · 
-<a href="https://github.com/orgs/lesslive/discussions">时间小镇</a> · 
-<a href="https://github.com/orgs/lesslive/discussions/1">加入组织</a> · 
+<a href="https://github.com/lesslive/TimeBank">TimeBank</a> · 
+<a href="https://github.com/orgs/lesslive/discussions">TimeTown</a> · 
+<a href="https://github.com/orgs/lesslive/discussions/1">Join Us</a> · 
 <a href="https://github.com/lesslive/opc.os/blob/main/LICENSE.md">CC BY-NC 4.0</a>
 
 
