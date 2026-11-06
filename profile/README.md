@@ -8,7 +8,7 @@
 
 ---
 
-<a href="https://github.com/orgs/lesslive/discussions/1">Join Us</a> · 
+<a href="https://github.com/orgs/lesslive/discussions/1">Join Us</a>
 
 
 
