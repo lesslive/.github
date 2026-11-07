@@ -18,7 +18,7 @@
 > Distill my minimal living runtime from the maximal world.  
 > 从纷繁复杂的世界里，蒸馏出我的最小化生活。
 
-加入 LessLive 的成员，将自动成为个人生存与生活的研究员，我们一同研究「最小化生活」的最佳实践，共同创建烟火气、人情味十足的生活圈。
+加入 LessLive 的成员，将自动成为个人生存与生活的研究员，我们一同研究「最小化生活」的最佳实践，共同构筑烟火气、人情味十足的生活圈。
 
 
 - 🪙 [TimeBank](https://github.com/lesslive/TimeBank)：把研究成果存入自己的时间银行
