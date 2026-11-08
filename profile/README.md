@@ -14,7 +14,7 @@
 ---
 
 
-## 🔬 一个研究与实践计划
+## 🔬 这是一个社会实验
 > Distill my minimal living runtime from the maximal world.  
 > 从纷繁复杂的世界里，蒸馏出我的最小化生活。
 
