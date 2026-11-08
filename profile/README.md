@@ -2,21 +2,23 @@
 <div align="center">
   
 <h1>最小化生活</h1>
-<p>Maximize the world, yet minimize living<br>
-<p>世界最大化，但生活最小化</p>
+<p><strong>Maximize the world, yet minimize living</strong><br>
+世界最大化，但生活最小化</p>
 
-
-
+<hr>
 
 </div>
 
-
----
 
 
 ## 🔬 这是一个社会实验
 > Distill my minimal living runtime from the maximal world.  
 > 从纷繁复杂的世界里，蒸馏出我的最小化生活。
+
+把生活拆解为与自己、与世界、与他人相处的三大课题
+基于服务设计思维和阿德勒心理学，对个人生存与生活展开研究与实践
+在这个纷繁复杂的世界里
+清除消耗自己的不必要，构建滋养自己的生活圈
 
 加入 LessLive 的成员，将自动成为个人生存与生活的研究员，我们一同研究「最小化生活」的最佳实践，共同构筑烟火气、人情味十足的生活圈。
 
