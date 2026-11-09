@@ -10,12 +10,9 @@
 </div>
 
 
-
 ## 🔬 这是一个社会实验
-Distill my minimal living runtime from the maximal world.  
-从纷繁复杂的世界里，蒸馏出我的最小化生活。
 
-这是一个关于个人生存与生活的社会实践。我们基于服务设计思维和阿德勒心理学，把生活解构为与自己、与世界、与他人相处的三大课题，在这个纷繁复杂的世界里，清除消耗自己的不必要，构建滋养自己的生活圈。
+这是一个关于个人生存与生活的社会实验。我们基于服务设计思维和阿德勒心理学，把生活解构为与自己、与世界、与他人相处的三大课题，在这个纷繁复杂的世界里，清除消耗自己的不必要，构建滋养自己的生活圈。
 
 
 
@@ -58,6 +55,7 @@ Distill my minimal living runtime from the maximal world.
 
 ---
 
-
+Distill my minimal living runtime from the maximal world.  
+从纷繁复杂的世界里，蒸馏出我的最小化生活。
 
 CC BY-NC 4.0 © 2026 lesslive organization
