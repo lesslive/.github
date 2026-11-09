@@ -41,12 +41,12 @@
 
 ## 成为生活研究员
 
-加入 LessLive 的成员自动成为研究员，我们一同探索「最小化生活」的最佳实践，共同构筑烟火气与人情味十足的生活圈。
+加入 LessLive 的成员自动成为研究员，我们一同探索「最小化生活」的最佳实践：
 
 
 ### 🪙 [TimeBank](https://github.com/lesslive/TimeBank)：把研究成果存入自己的时间银行
 
-这是基于 LessLive 理念与方法打造的开源仓库，用来整理、保存个人研究成果，把思考、策略与实践所得沉淀为个人资产，驱动生活持续迭代。
+这是基于 LessLive 理念与方法打造的开源仓库，用来整理、保存个人研究成果，把思考、策略与实践所得沉淀为个人资产，驱动自己的生活持续迭代，和一群人构筑自己的生活圈。
 
 
 ### 🏡 [TimeTown](https://github.com/orgs/lesslive/discussions/categories/timetown)：入驻时间小镇，成为我们的邻居
