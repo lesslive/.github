@@ -1,12 +1,9 @@
 
 <div align="center">
-  
-<h1>最小化生活</h1>
-<p><strong>Maximize the world, yet minimize living</strong><br>
-世界最大化，但生活最小化</p>
-
-<hr>
-
+<h1>LessLive</h1>
+<p>Maximize the world, yet minimize living</p>
+<h3>把朋友圈变成生活圈</h3>
+<p><strong>有烟火气和人情味的生活</strong></p>
 </div>
 
 
