@@ -27,7 +27,7 @@ LessLive 是一个研究与实践阿德勒理论的开放组织，我们研究�
 - **训练营**：系统学习课题分离和共同体感受并实践
 - **工作坊**：现实生活中各应用场景的真实实践计划
 - **实验室**：持续探索和改良更多能帮助实践的方法
-- **[工具箱](https://github.com/lesslive/LessLive)**：把你的生活讲成人们愿意追下去的故事
+- **[工具箱](https://github.com/lesslive/LessLive)**：把你的生活变成人们愿意追下去的故事
 
 ## 📜 社区活动
 
@@ -44,8 +44,8 @@ LessLive 是一个研究与实践阿德勒理论的开放组织，我们研究�
 
 ---
 
-Distill my minimal living runtime from the maximal world.
+Maximize the world, yet minimize living
 
-从纷繁复杂的世界里，蒸馏出我的最小化生活。
+世界最大化，但生活最小化
 
 CC BY-NC 4.0 © 2026 lesslive organization
