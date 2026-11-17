@@ -3,7 +3,6 @@
 <h1>LessLive</h1>
 
 <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" alt="License">
-<img src="https://img.shields.io/badge/Obsidian-v1.0+-purple.svg" alt="Obsidian">
 <img src="https://img.shields.io/badge/Status-Active-green.svg" alt="Status">
 <p>用阿德勒的理论和方法改善人际关系<br>构建高质量生活圈</p>
 <strong>客户 · 同事 · 伙伴 · 朋友 · 家人 · 爱人</strong>
@@ -13,7 +12,7 @@
 
 ## 🤝 我们是谁
 
-LessLive 是一个研究与实践阿德勒理论的开放组织，我们研究任何建立和经营人际关系，构建高质量生活圈。
+LessLive 是一个研究与实践阿德勒理论的开放组织，我们研究如何建立和经营高质量人际关系，构建滋养自己的生活圈。
 
 
 ## 🧭 我们怎么做
