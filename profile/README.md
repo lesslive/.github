@@ -42,9 +42,12 @@ LessLive 是一个研究与实践阿德勒理论的开放组织，我们研究�
 - [申请加入](https://github.com/orgs/lesslive/discussions/1)：让你的 AI 助手帮你把仓库也同步到组织，让更多人看到你，认识你，加入你
 
 ---
+<div align="center">
 
-Maximize the world, yet minimize living
+<p>Maximize the world, yet minimize living</p>
 
-世界最大化，但生活最小化
+<p>世界最大化，但生活最小化</p>
 
-CC BY-NC 4.0 © 2026 lesslive organization
+<p>CC BY-NC 4.0 © 2026 lesslive organization</p>
+
+</div>
