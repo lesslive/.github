@@ -1,15 +1,10 @@
 <div align="center">
 
-<h1>LessLive</h1>
 
+<h2>LessLive</h2>
+<h2>普通人在 AI 时代的生存与生活</h2>
+把经验转化为可交付的产品与故事
 
-<img src="https://img.shields.io/badge/Community-Open-brightgreen.svg" alt="Community">
-<img src="https://img.shields.io/badge/Researchers-Welcome-ff69b4.svg" alt="Researchers">
-<img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" alt="License">
-
-
-<p>用阿德勒的理论和方法改善人际关系<br>构建高质量生活圈</p>
-<strong>客户 · 同事 · 伙伴 · 朋友 · 家人 · 爱人</strong>
 </div>
 
 ---
