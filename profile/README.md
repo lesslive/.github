@@ -1,4 +1,11 @@
-
+<div align="center">
+<h1>个人经验产品化</h1>
+<p><strong>普通人在 AI 时代的生存与生活</strong></p>
+<img src="https://img.shields.io/badge/Community-Open-brightgreen.svg" alt="Community">
+<img src="https://img.shields.io/badge/Researchers-Welcome-ff69b4.svg" alt="Researchers">
+<img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" alt="License">
+<p><strong>— LessLive —</strong></p>
+</div>
 
 ## 🤝 我们是谁
 
