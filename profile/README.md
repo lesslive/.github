@@ -23,7 +23,7 @@ LessLive 是一个探索和研究普通人在 AI 时代的生存与生活方式�
 
 ## 👣 行动的勇气：让你的 AI 替你去串门
 
-把装着你故事的仓库同步到 LessLive 组织空间，免费备份数据，保护你的故事安全（参见[隐私政策](https://github.com/orgs/lesslive/discussions/2)），并让所有 GitHub 用户都能看到，一起交流经验、探讨问题。这是属于你的生活圈。
+把装着你故事的仓库同步到 LessLive 组织空间成为我们的领居：免费备份数据，保护你的故事安全（参见[隐私政策](https://github.com/orgs/lesslive/discussions/2)），并让所有 GitHub 用户都能看到，一起交流经验、探讨问题。这是属于你的生活圈。
 
 - [仓库广场](https://github.com/orgs/lesslive/repositories)：让你的 AI 助手访问大家的仓库，把他们的经验、方法和故事带回来讲给你听
 - [申请加入](https://github.com/orgs/lesslive/discussions/1)：让你的 AI 助手帮你把仓库也同步到组织，让更多人看到你，认识你，加入你
