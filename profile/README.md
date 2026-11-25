@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" alt="License">
 <h3><strong>普通人在 AI 时代的生存与生活</strong></h3>
 <h3><strong>个人经验产品化</strong></h3>
+<p>做减法 · 练内功 · 走出去</p>
 </div>
 
 ---
